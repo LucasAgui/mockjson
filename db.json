@@ -310,5 +310,127 @@
       },
       "id": 98443197
     }
-  ]
+  ],
+expenses: [
+		{
+			"id": 2,
+			"amount": 23.12,
+			"description": "Gastos de la semana",
+			"type": "INCOME",
+			"userId": 1,
+			"categoryId": 24,
+			"createdAt": "2024-02-22T14:59:57.859Z",
+			"updatedAt": "2024-02-22T14:59:57.859Z"
+		},
+		{
+			"id": 3,
+			"amount": null,
+			"description": "Gastos de la semana",
+			"type": "INCOME",
+			"userId": 1,
+			"categoryId": 22,
+			"createdAt": "2024-02-22T15:02:25.691Z",
+			"updatedAt": "2024-02-22T15:02:25.691Z"
+		},
+		{
+			"id": 4,
+			"amount": null,
+			"description": "Gastos de la semana",
+			"type": "INCOME",
+			"userId": 1,
+			"categoryId": 21,
+			"createdAt": "2024-02-22T15:03:16.685Z",
+			"updatedAt": "2024-02-22T15:03:16.685Z"
+		},
+		{
+			"id": 5,
+			"amount": 123.23,
+			"description": "Gastos de la semana",
+			"type": "INCOME",
+			"userId": 1,
+			"categoryId": 23,
+			"createdAt": "2024-02-22T15:08:05.163Z",
+			"updatedAt": "2024-02-22T15:08:05.163Z"
+		},
+		{
+			"id": 6,
+			"amount": 23.12,
+			"description": "Alquiler",
+			"type": "INCOME",
+			"userId": 1,
+			"categoryId": 20,
+			"createdAt": "2024-02-26T00:47:38.051Z",
+			"updatedAt": "2024-02-26T00:47:38.051Z"
+		},
+		{
+			"id": 7,
+			"amount": 23.12,
+			"description": "Gastos de la semana",
+			"type": "INCOME",
+			"userId": 1,
+			"categoryId": 21,
+			"createdAt": "2024-02-26T11:56:22.361Z",
+			"updatedAt": "2024-02-26T11:56:22.361Z"
+		},
+		{
+			"id": 8,
+			"amount": 23.12,
+			"description": "Gastos de la semana",
+			"type": "OUTCOME",
+			"userId": 1,
+			"categoryId": 17,
+			"createdAt": "2024-02-22T14:59:57.859Z",
+			"updatedAt": "2024-02-22T14:59:57.859Z"
+		},
+		{
+			"id": 9,
+			"amount": null,
+			"description": "Gastos de la semana",
+			"type": "OUTCOME",
+			"userId": 1,
+			"categoryId": 12,
+			"createdAt": "2024-02-22T15:02:25.691Z",
+			"updatedAt": "2024-02-22T15:02:25.691Z"
+		},
+		{
+			"id": 10,
+			"amount": null,
+			"description": "Gastos de la semana",
+			"type": "OUTCOME",
+			"userId": 1,
+			"categoryId": 10,
+			"createdAt": "2024-02-22T15:03:16.685Z",
+			"updatedAt": "2024-02-22T15:03:16.685Z"
+		},
+		{
+			"id": 11,
+			"amount": 123.23,
+			"description": "Gastos de la semana",
+			"type": "OUTCOME",
+			"userId": 1,
+			"categoryId": 17,
+			"createdAt": "2024-02-22T15:08:05.163Z",
+			"updatedAt": "2024-02-22T15:08:05.163Z"
+		},
+		{
+			"id": 12,
+			"amount": 23.12,
+			"description": "Alquiler",
+			"type": "OUTCOME",
+			"userId": 1,
+			"categoryId": 9,
+			"createdAt": "2024-02-26T00:47:38.051Z",
+			"updatedAt": "2024-02-26T00:47:38.051Z"
+		},
+		{
+			"id": 13,
+			"amount": 23.12,
+			"description": "Gastos de la semana",
+			"type": "OUTCOME",
+			"userId": 1,
+			"categoryId": 9,
+			"createdAt": "2024-02-26T11:56:22.361Z",
+			"updatedAt": "2024-02-26T11:56:22.361Z"
+		}
+	]
 }
